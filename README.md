@@ -1,3 +1,5 @@
 # forkify project
 
-Recipe applocation with custom recipe uploads.
+Recipe application with custom recipe uploads.
+Final project from Jonas Sctmedtamm JS Course
+Link: https://forkify-emmanuelayeniko.netlify.app/
